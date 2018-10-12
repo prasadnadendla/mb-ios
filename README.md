@@ -1,2 +1,0 @@
-# mb-ios
-ios version
